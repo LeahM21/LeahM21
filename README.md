@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leah Marshall @LeahM21, a French and Digital Communications student studying at Western University.
-- 👀 I’m interested in product design and languages.
+- I’m interested in product design and languages.
 - 📫 How to reach me: lmarsh49@uwo.ca
 
 <!---
